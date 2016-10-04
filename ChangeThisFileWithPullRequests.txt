@@ -1,0 +1,11 @@
+Please add more lines under these lines with your names.
+To do this:
+ - Fork the project through your github account (click on "Fork" button on the right of this project's page)
+ - Clone the newly forked project from YOUR OWN github account, not mine! You can use a command line or github desktop
+ - change the lines in this file
+ - commit the changes to master
+ - do a git push or "publish" using github desktop
+
+ --- lines to change begin here-------
+I'll go first:
+Roy Osherove (one name per line)
